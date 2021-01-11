@@ -1,0 +1,1 @@
+.carousel-3d-slide{position:absolute;visibility:hidden;top:0;border-radius:6px;background-size:cover;background-color:#ccc;display:block;margin:0;box-sizing:border-box;text-align:left}.carousel-3d-slide img{width:100%}.carousel-3d-slide.current{opacity:1;visibility:visible!important;transform:none!important;z-index:999}

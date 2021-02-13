@@ -116,7 +116,7 @@ function getRandomInt(min, max)
 // Псведослучайное расположение блоков на доске
 function newGame()
 {
-   for (var a = 1; a <= 10; a++)
+   for (var a = 1; a <= 789; a++)
    {
       switch (getRandomInt(1, 4))
       {
